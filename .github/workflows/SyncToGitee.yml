@@ -3,7 +3,7 @@ name: Sync Github Repos To Gitee
 on:
   # Triggers the workflow every 5 minutes
   schedule:
-    - cron: "15 4 * * *"
+    - cron: "15 19 * * *"
   # push:
   #   branches: 
   #     - main
